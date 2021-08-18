@@ -45,6 +45,7 @@ npm run dev
 -   Business Logic: Routes Directory
 
 -   Features
+
     -   Click on vote option to cast your vote.
 
     -   Click on Add Candidate option for adding candidate to the poll (for Admin).
@@ -52,3 +53,5 @@ npm run dev
     -   Click on Poll Result to see the winner and runner up of the poll.
 
     -   Click on Voting summary to see the vote history of all the candidates (for Admin).
+
+<img src="/SnapShots/Vote.png>
