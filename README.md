@@ -54,4 +54,4 @@ npm run dev
 
     -   Click on Voting summary to see the vote history of all the candidates (for Admin).
 
-<img src="/SnapShots/Vote.png>
+<img src="/SnapShots/Vote.png" alt="Vote" style="height: 100px; width:100px;"/>
